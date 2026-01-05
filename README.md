@@ -55,12 +55,10 @@ Projeyi kendi bilgisayarınızda çalıştırmak için adımları izleyin:
 5.  **Erişim:**
     Tarayıcınızdan `http://localhost:8000/dashboard` adresine gidin.
 
-## 📸 Ekran Görüntüleri
 
-*(Buraya projenin çalışan halinden 1-2 ekran görüntüsü eklenebilir)*
 
 ## ⚠️ Yasal Uyarı
 Bu proje tamamen eğitim ve araştırma amaçlı geliştirilmiştir. Toplanan veriler halka açık kaynaklardan elde edilmektedir.
-
 ---
-*Developed by [Senin Adın]*
+
+*Developed by Yiğit Buğra Küçük*
